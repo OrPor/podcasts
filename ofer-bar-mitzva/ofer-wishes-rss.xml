@@ -69,5 +69,18 @@
             <itunes:duration>25</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+         <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>דוד אורי</title>
+            <description>ברכה מדודאורי</description>
+            <season>1</season>
+            <episode>4</episode>
+            <enclosure length="364626" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/dod-ori.mp4" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/Ori-cover.jpg" />
+            <guid isPermaLink="false">4763a529-bb3b-499d-83b4-c717c923c6db</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>20</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
