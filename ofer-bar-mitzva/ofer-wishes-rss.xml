@@ -43,5 +43,18 @@
             <itunes:duration>28</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>אלון</title>
+            <description>ברכה מדוד אלון</description>
+            <season>1</season>
+            <episode>2</episode>
+            <enclosure length="242600" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/elon.mp4" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/elon-cover.jpeg" />
+            <guid isPermaLink="false">25e21be1-d8bf-42fb-8148-d131ca5ebd4f</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>12</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
