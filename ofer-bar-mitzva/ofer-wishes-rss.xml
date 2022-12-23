@@ -147,5 +147,18 @@
             <itunes:duration>60</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+          <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>אסף</title>
+            <description>ברכה מאספי</description>
+            <season>1</season>
+            <episode>10</episode>
+            <enclosure length="3735596" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/asaf.ogg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/asaf-cover.jpg" />
+            <guid isPermaLink="false">4be113c1-786c-4919-91ab-9c3c52ff3c6e</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>42</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
