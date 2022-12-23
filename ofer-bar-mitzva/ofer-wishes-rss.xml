@@ -186,5 +186,31 @@
             <itunes:duration>23</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+          <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>דורין אופיר ואורי</title>
+            <description>ברכה מדורין אופיר ואורי</description>
+            <season>1</season>
+            <episode>13</episode>
+            <enclosure length="245688" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/dorin-ofor-ori.mpeg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/dorin-ofir-ori-cover.jpg" />
+            <guid isPermaLink="false">5d96be2d-bbe3-4f1f-abf6-ce2b30683c6d</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>15</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+         <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>מרים ויצחק</title>
+            <description>ברכה מסבא יצחק וספתא רימיים</description>
+            <season>1</season>
+            <episode>14</episode>
+            <enclosure length="1238759" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/miryan-yitzhak.mpeg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/miryan-yitzhak-cover.jpg" />
+            <guid isPermaLink="false">1fadcec6-17cb-47b4-922a-cbff8d232713</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>77</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
