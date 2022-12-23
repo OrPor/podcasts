@@ -88,7 +88,7 @@
             <description>ברכה משבלולית</description>
             <season>1</season>
             <episode>5</episode>
-            <enclosure length="3194924" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/omri.ogg" />
+            <enclosure length="3194924" type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/omri.ogg" />
             <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/omri-cover.jpg" />
             <guid isPermaLink="false">8fbac8fc-2ad6-4178-90f0-a5555c44afa3</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
@@ -101,7 +101,7 @@
             <description>ברכה מדודה חני</description>
             <season>1</season>
             <episode>6</episode>
-            <enclosure length="901164" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/hani.ogg" />
+            <enclosure length="901164" type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/hani.ogg" />
             <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/hanni-cover.jpg" />
             <guid isPermaLink="false">0d52826a-2c98-4c8e-adef-e426397bc28d</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
@@ -127,7 +127,7 @@
             <description>ברכה מדודה חבוש</description>
             <season>1</season>
             <episode>8</episode>
-            <enclosure length="1318956" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/hava.ogg" />
+            <enclosure length="1318956" type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/hava.ogg" />
             <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/hava-cover.jpg" />
             <guid isPermaLink="false">9c48ce81-3be0-46ad-987b-c5f6a5bdb976</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
@@ -140,7 +140,7 @@
             <description>ברכה מאבא</description>
             <season>1</season>
             <episode>9</episode>
-            <enclosure length="5349420" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/amit.ogg" />
+            <enclosure length="5349420" type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/amit.ogg" />
             <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/amit-cover.jpg" />
             <guid isPermaLink="false">644489a8-44d2-4d4e-8c2c-45bd442713db</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
@@ -153,7 +153,7 @@
             <description>ברכה מאספי</description>
             <season>1</season>
             <episode>10</episode>
-            <enclosure length="3735596" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/asaf.ogg" />
+            <enclosure length="3735596" type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/asaf.ogg" />
             <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/asaf-cover.jpg" />
             <guid isPermaLink="false">4be113c1-786c-4919-91ab-9c3c52ff3c6e</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
@@ -166,7 +166,7 @@
             <description>ברכה מבפנה</description>
             <season>1</season>
             <episode>11</episode>
-            <enclosure length="1359916 " type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/dafna.ogg" />
+            <enclosure length="1359916 " type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/dafna.ogg" />
             <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/dafna-cover.jpg" />
             <guid isPermaLink="false">60e0db49-8cfa-471e-861f-b18d1b606174</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
@@ -179,7 +179,7 @@
             <description>ברכה מדודה אילת</description>
             <season>1</season>
             <episode>12</episode>
-            <enclosure length="192299" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/ayelet.ogg" />
+            <enclosure length="192299" type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/ayelet.ogg" />
             <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/ayelet-cover.jpg" />
             <guid isPermaLink="false">92bfaf0f-697d-4c38-a8ac-27e514505da0</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
@@ -199,7 +199,7 @@
             <itunes:duration>15</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
-         <item>
+        <item>
             <itunes:episodeType>full</itunes:episodeType>
             <title>מרים ויצחק</title>
             <description>ברכה מסבא יצחק וספתא רימיים</description>
@@ -212,30 +212,56 @@
             <itunes:duration>77</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
-         <item>
+        <item>
             <itunes:episodeType>full</itunes:episodeType>
             <title>עידית</title>
             <description>ברכה מדודה עידית</description>
             <season>1</season>
             <episode>15</episode>
-            <enclosure length="5054508" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/idit.ogg" />
+            <enclosure length="5054508" type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/idit.ogg" />
             <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/idit-eran-cover.jpg" />
             <guid isPermaLink="false">a1fd114b-5e7b-4e65-8ac7-fffeea1f3a07</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
             <itunes:duration>56</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
-         <item>
+        <item>
             <itunes:episodeType>full</itunes:episodeType>
             <title>שירה</title>
             <description>ברכה משירה</description>
             <season>1</season>
             <episode>16</episode>
-            <enclosure length="778284" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/shira.ogg" />
+            <enclosure length="778284" type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/shira.ogg" />
             <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/shira-cover.jpg" />
             <guid isPermaLink="false">23073098-0283-486e-9904-2f0ca8b2ef7a</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
             <itunes:duration>8</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>אראלה</title>
+            <description>ברכה מדודה ללה</description>
+            <season>1</season>
+            <episode>17</episode>
+            <enclosure length="151656" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/erela.mp4" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/erela-cover.jpg" />
+            <guid isPermaLink="false">a2d9612e-e7e2-4bd2-bb00-c3a7e5ef86b5</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>23</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>אופיר</title>
+            <description>מה מאופיר</description>
+            <season>1</season>
+            <episode>18</episode>
+            <enclosure length="72203" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/ofir.mp4" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/ofir-cover.jpg" />
+            <guid isPermaLink="false">77bc55e5-2e2b-484e-a7e5-5d747f4027a6</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>11</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
     </channel>
