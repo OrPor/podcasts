@@ -212,5 +212,31 @@
             <itunes:duration>77</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+         <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>עידית</title>
+            <description>ברכה מדודה עידית</description>
+            <season>1</season>
+            <episode>15</episode>
+            <enclosure length="5054508" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/idit.ogg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/idit-eran-cover.jpg" />
+            <guid isPermaLink="false">a1fd114b-5e7b-4e65-8ac7-fffeea1f3a07</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>56</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+         <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>שירה</title>
+            <description>ברכה משירה</description>
+            <season>1</season>
+            <episode>16</episode>
+            <enclosure length="778284" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/shira.ogg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/shira-cover.jpg" />
+            <guid isPermaLink="false">23073098-0283-486e-9904-2f0ca8b2ef7a</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>8</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
