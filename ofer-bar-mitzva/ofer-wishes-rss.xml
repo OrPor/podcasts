@@ -160,5 +160,31 @@
             <itunes:duration>42</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+         <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>דפנה</title>
+            <description>ברכה מבפנה</description>
+            <season>1</season>
+            <episode>11</episode>
+            <enclosure length="1359916 " type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/dafna.ogg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/dafna-cover.jpg" />
+            <guid isPermaLink="false">60e0db49-8cfa-471e-861f-b18d1b606174</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>15</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+         <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>אילת</title>
+            <description>ברכה מדודה אילת</description>
+            <season>1</season>
+            <episode>12</episode>
+            <enclosure length="192299" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/ayelet.ogg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/ayelet-cover.jpg" />
+            <guid isPermaLink="false">92bfaf0f-697d-4c38-a8ac-27e514505da0</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>23</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
