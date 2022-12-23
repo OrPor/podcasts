@@ -134,5 +134,18 @@
             <itunes:duration>14</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title> עמית</title>
+            <description>ברכה מאבא</description>
+            <season>1</season>
+            <episode>9</episode>
+            <enclosure length="5349420" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/amit.ogg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/amit-cover.jpg" />
+            <guid isPermaLink="false">644489a8-44d2-4d4e-8c2c-45bd442713db</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>60</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
