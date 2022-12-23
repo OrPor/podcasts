@@ -108,5 +108,18 @@
             <itunes:duration>52</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+          <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>איתן</title>
+            <description>ברכה מדוד איתן</description>
+            <season>1</season>
+            <episode>7</episode>
+            <enclosure length="1384650" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/eitan.mpeg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/eitan-cover.jpg" />
+            <guid isPermaLink="false">0d52826a-2c98-4c8e-adef-e426397bc28d</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>87</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
