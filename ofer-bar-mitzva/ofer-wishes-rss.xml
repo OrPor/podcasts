@@ -346,5 +346,31 @@ https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd?si=l8Uo7ydUTeilClpMD5iv8w<
             <itunes:duration>11</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>סבאנוני וספתאירית</title>
+            <description>ברכה מסבאנוני וספתאירית.</description>
+            <season>1</season>
+            <episode>25</episode>
+            <enclosure length="1228844" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/noni1.ogg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/noni-cover.jpeg" />
+            <guid isPermaLink="false">6de02341-7739-4199-a7f6-e4dd73e8d1e4</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>13</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+         <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>סבאנוני וספתאירית</title>
+            <description>ברכה מסבאנוני וספתאירית.</description>
+            <season>1</season>
+            <episode>26</episode>
+            <enclosure length="327724" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/noni2.ogg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/noni-cover.jpeg" />
+            <guid isPermaLink="false">46fef944-349c-4413-853a-661ebac26983</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>3</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
