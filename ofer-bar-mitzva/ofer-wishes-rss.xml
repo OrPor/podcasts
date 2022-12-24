@@ -244,11 +244,11 @@
             <description>ברכה מדודה ללה</description>
             <season>1</season>
             <episode>17</episode>
-            <enclosure length="151656" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/erela.mp4" />
+            <enclosure length="142012" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/erela-v2.mp4" />
             <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/erela-cover.jpeg" />
-            <guid isPermaLink="false">a2d9612e-e7e2-4bd2-bb00-c3a7e5ef86b5</guid>
+            <guid isPermaLink="false">999efdac-9cfc-43fa-959c-908f1a8118dd</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
-            <itunes:duration>23</itunes:duration>
+            <itunes:duration>22</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
         <item>
