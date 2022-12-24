@@ -84,12 +84,12 @@
         </item>
         <item>
             <itunes:episodeType>full</itunes:episodeType>
-            <title>עומרי</title>
-            <description>ברכה משבלולית</description>
+            <title>גרדי</title>
+            <description>ברכה מהגרדיונים</description>
             <season>1</season>
             <episode>5</episode>
             <enclosure length="3194924" type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/omri.ogg" />
-            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/omri-cover.jpg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/gardi-cover.jpg" />
             <guid isPermaLink="false">8fbac8fc-2ad6-4178-90f0-a5555c44afa3</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
             <itunes:duration>36</itunes:duration>
