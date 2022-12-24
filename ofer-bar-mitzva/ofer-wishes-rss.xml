@@ -269,7 +269,8 @@ https://open.spotify.com/track/5GCjIrpQ9U5uZiiffRHh5k?si=18769e0a6e644734</descr
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <title>הגר</title>
-            <description>ברכה מהגר. </description>
+            <description>ברכה מהגר.
+https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3?si=SKDLrhbUTi6qxB9sUngh3g</description>
             <season>1</season>
             <episode>19</episode>
             <enclosure length="557609" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/hagar.m4a" />
@@ -277,6 +278,20 @@ https://open.spotify.com/track/5GCjIrpQ9U5uZiiffRHh5k?si=18769e0a6e644734</descr
             <guid isPermaLink="false">aa1952fd-ad6e-4fde-939b-31383b1fe79d</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
             <itunes:duration>16</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>נטע</title>
+            <description>ברכה מנטע.
+https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd?si=l8Uo7ydUTeilClpMD5iv8w</description>
+            <season>1</season>
+            <episode>20</episode>
+            <enclosure length="38539" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/netta.mp4" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/netta-cover.jpg" />
+            <guid isPermaLink="false">1e5bd26f-e9a6-47f4-9a5d-7a66e4c2b2a9</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>5</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
     </channel>
