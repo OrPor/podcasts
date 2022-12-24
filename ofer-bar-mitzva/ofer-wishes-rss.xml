@@ -297,8 +297,7 @@ https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd?si=l8Uo7ydUTeilClpMD5iv8w<
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <title>אורנה</title>
-            <description>ברכה מאמא.
-https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd?si=l8Uo7ydUTeilClpMD5iv8w</description>
+            <description>ברכה מאמא.</description>
             <season>1</season>
             <episode>21</episode>
             <enclosure length="5988396" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/orna.ogg" />
