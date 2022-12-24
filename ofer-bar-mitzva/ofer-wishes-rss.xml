@@ -76,7 +76,7 @@
             <season>1</season>
             <episode>4</episode>
             <enclosure length="364626" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/dod-ori.mp4" />
-            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/Ori-cover.jpg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/Ori-cover.jpeg" />
             <guid isPermaLink="false">a9ee2d52-3220-4a1b-bd47-cddefce9dcc7</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
             <itunes:duration>20</itunes:duration>
@@ -136,12 +136,12 @@
         </item>
         <item>
             <itunes:episodeType>full</itunes:episodeType>
-            <title> עמית</title>
+            <title>עמית</title>
             <description>ברכה מאבא</description>
             <season>1</season>
             <episode>9</episode>
             <enclosure length="5349420" type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/amit.ogg" />
-            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/amit-cover.jpg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/amit-cover.png" />
             <guid isPermaLink="false">644489a8-44d2-4d4e-8c2c-45bd442713db</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
             <itunes:duration>60</itunes:duration>
@@ -154,7 +154,7 @@
             <season>1</season>
             <episode>10</episode>
             <enclosure length="3735596" type="audio/ogg" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/asaf.ogg" />
-            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/asaf-cover.jpg" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/asaf-cover.jpeg" />
             <guid isPermaLink="false">4be113c1-786c-4919-91ab-9c3c52ff3c6e</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
             <itunes:duration>42</itunes:duration>
@@ -241,7 +241,7 @@
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <title>אראלה</title>
-            <description>ברכה מדודה ללה</description>
+            <description>ברכה מדודה ללה. https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF?si=F6HdgOBlTy6w6Qly8xIf6g</description>
             <season>1</season>
             <episode>17</episode>
             <enclosure length="142012" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/erela-v2.mp4" />
@@ -254,7 +254,7 @@
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <title>אופיר</title>
-            <description>מה מאופיר</description>
+            <description>מה מאופיר. https://open.spotify.com/track/5GCjIrpQ9U5uZiiffRHh5k?si=hlCvpWOgQg-ayPA4LQ0qXg</description>
             <season>1</season>
             <episode>18</episode>
             <enclosure length="72203" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/ofir.mp4" />
@@ -262,6 +262,19 @@
             <guid isPermaLink="false">77bc55e5-2e2b-484e-a7e5-5d747f4027a6</guid>
             <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
             <itunes:duration>11</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <title>הגר</title>
+            <description>ברכה מהגר. </description>
+            <season>1</season>
+            <episode>19</episode>
+            <enclosure length="557609" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/hagar.m4a" />
+            <itunes:image href="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/hagar-cover.jpg" />
+            <guid isPermaLink="false">aa1952fd-ad6e-4fde-939b-31383b1fe79d</guid>
+            <pubDate>Thu, 22 Dec 2022 13:00:48 GMT</pubDate>
+            <itunes:duration>16</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
     </channel>
