@@ -241,7 +241,8 @@
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <title>אראלה</title>
-            <description>ברכה מדודה ללה. https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF?si=F6HdgOBlTy6w6Qly8xIf6g</description>
+            <description>ברכה מדודה ללה.
+https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF?si=F6HdgOBlTy6w6Qly8xIf6g</description>
             <season>1</season>
             <episode>17</episode>
             <enclosure length="142012" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/erela-v2.mp4" />
@@ -254,7 +255,8 @@
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <title>אופיר</title>
-            <description>מה מאופיר. https://open.spotify.com/track/5GCjIrpQ9U5uZiiffRHh5k?si=hlCvpWOgQg-ayPA4LQ0qXg</description>
+            <description>מה מאופיר.
+https://open.spotify.com/track/5GCjIrpQ9U5uZiiffRHh5k?si=18769e0a6e644734</description>
             <season>1</season>
             <episode>18</episode>
             <enclosure length="72203" type="audio/mp4" url="https://github.com/OrPor/podcasts/raw/main/ofer-bar-mitzva/ofir.mp4" />
